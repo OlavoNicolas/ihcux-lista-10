@@ -76,8 +76,5 @@ O usuário pode sair da fila a qualquer momento.
 Notificações  
 Avisos sobre proximidade de atendimento ou mudanças no tempo.
 
-## Ferramenta Utilizada
-Miro
-
 ## Observações
 O protótipo prioriza velocidade de criação e validação da ideia, sem foco em design visual detalhado.
